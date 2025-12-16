@@ -15,7 +15,7 @@ LOCAL_EPOCHS = 10
 BATCH_SIZE = 64
 LR = 0.01
 
-# Malicious behavior (same as before)
+# Malicious behavior
 MALICIOUS_CLIENTS = [3, 4]
 ATTACK_SCALE = 10.0  # scale factor for scaled-up attack
 
