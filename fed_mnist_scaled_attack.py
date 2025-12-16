@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 # -------------------------
 NUM_CLIENTS = 5
 NUM_ROUNDS = 10
-LOCAL_EPOCHS = 5        # you can set to 10 if you like
+LOCAL_EPOCHS = 5        
 BATCH_SIZE = 64
 LR = 0.01
 
